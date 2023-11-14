@@ -13,3 +13,4 @@ VALUES("pqr","pq@c","superb");
 INSERT INTO contact(UserName,Email,Message)
 VALUES("lmn","lm@c","awsome"); 
 SELECT * FROM contact;
+select UserName from contacts;
